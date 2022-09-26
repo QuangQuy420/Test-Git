@@ -23,5 +23,6 @@
     <body class="antialiased">
         <div>test Git</div>
         <div>test Git lần 1</div>
+        <div>test Git lần 2</div>
     </body>
 </html>
