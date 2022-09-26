@@ -22,10 +22,6 @@
     </head>
     <body class="antialiased">
         <div>test Git</div>
-        <div>test Git lần 1</div>
-        <div>test Git lần 2</div>
-        <div>test Git lần 3</div>
-        <div>test Git lần 4</div>
-        <div>test Git lần 5</div>
+        <div> add file </div>
     </body>
 </html>
